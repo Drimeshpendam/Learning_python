@@ -18,3 +18,8 @@ print(f"You are a student: {is_student}")
 numbers_str = input("Enter a list of numbers separated by spaces: ")
 numbers_list = [int(num) for num in numbers_str.split()]
 print(f"You entered: {numbers_list}")
+# Get input as a list of integers
+numbers_str = input("Enter a list of numbers separated by spaces: ")
+numbers_list = [int(num) for num in numbers_str.split()]
+print(f"You entered: {numbers_list}")
+
