@@ -81,4 +81,5 @@
 6.2 Introduction to SQL
 
 6.3 Creating databases and tables using SQL
+
 6.4 SQL queries in Python
