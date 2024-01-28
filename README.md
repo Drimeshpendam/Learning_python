@@ -11,6 +11,7 @@
 1.5 Basic input/output in Python
 
 **Data Structures in Python**
+
 1.6 List
 
 1.7 Tuples
